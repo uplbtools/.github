@@ -32,7 +32,7 @@ Community forks running the platform at other campuses, none maintained by us:
 | --- | --- |
 | UP Visayas | [andrianllmm/upv-room-tba](https://github.com/andrianllmm/upv-room-tba) |
 | UP Baguio | [UPB-Tools/room-tba](https://github.com/UPB-Tools/room-tba) |
-| Bulacan State University (Malolos) | [bulsutools/room-tba](https://github.com/bulsutools/room-tba) |
+| Bulacan State University (Malolos) | [bulsutools/room-tba](https://github.com/bulsutools/room-tba), live at [bulsu-room-tba.vercel.app](https://bulsu-room-tba.vercel.app) |
 
 Want your campus here? Start with the [fork wizard](https://room-tba.uplb.tools/fork) and the [fork guide](https://room-tba.uplb.tools/wiki/fork-for-your-campus).
 
