@@ -18,4 +18,4 @@ If your org features you for your uplb.tools work, that's your feature and none 
 
 The rule for who's on uplb.tools/people is on that page. If a publication's credit doesn't match, we ask them to fix it. If the page is wrong, we fix the page.
 
-Don't argue with an editor about layout after the first ask. Don't tell anyone the group photo will definitely run. Don't submit someone's photo without asking them. Don't add anyone to the core team the same week a feature drops.
+Don't argue with an editor about layout after the first ask. Don't tell anyone the group photo will definitely run. Don't submit someone's photo without asking them.
