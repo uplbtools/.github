@@ -6,7 +6,13 @@ When someone wants to write about us, whoever got contacted handles it. Post in 
 
 The day you submit, post in the GC what you sent. Photos, credit line, quotes. Don't wait for the article to come out. When it's published, share it with everyone's names written out. If they got a name wrong or dropped the credit line, ask them to fix it that day and send the exact text you want.
 
-When we announce something ourselves, we send a release for a launch, a new campus fork, a partnership, or a milestone with a real number behind it. Not for point releases. Whoever did the work writes it. Two other core members read it before it goes out. Post the full text in the GC at least a day before, and anyone named in it can change how they're described. The release should have one sentence on what shipped, one number with its source (same number as the press kit), the names of the people who did this specific work, a quote from whoever led it, a link to the thing, and the credit line at the end. Post it to the org Facebook and Instagram, the GitHub release, Discord, and the changelog, same text in every channel. Nobody posts as UPLB Tools without the GC seeing it first. If something in it was wrong, fix it in every channel it went to.
+Sometimes we're the ones announcing something. We only do that for big things. A launch, a new campus running a fork, a partnership, or a milestone we can put a real number on. We don't do it for small releases.
+
+The person who did the work writes the announcement. Two other core members read it. Then it goes in the GC for at least a day so anyone named in it can say how they want to be described.
+
+The announcement needs a few things. One sentence saying what shipped. One number, and where it came from, using the same figure as the press kit. The names of the people who did this particular work. A quote from whoever led it. A link to the thing. The credit line at the end.
+
+Post it to the org Facebook and Instagram, the GitHub release, Discord, and the changelog. Use the same text everywhere. Nobody posts as UPLB Tools until the GC has seen it. If something turns out to be wrong, fix it everywhere it was posted.
 
 If your org features you for your Room TBA work, that's your feature and none of this applies. Link the repo if you can.
 
