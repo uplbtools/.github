@@ -8,7 +8,7 @@ The day you submit, post in the GC what you sent. Photos, credit line, quotes. D
 
 Sometimes we're the ones announcing something. Announce whatever you want. The rest of this only applies if the post names people or quotes numbers, because those are the two things that are hard to walk back.
 
-If it does, the person who did the work writes it. Two other core members read it. Then it goes in the GC for at least a day so anyone named in it can say how they want to be described.
+If it does, the person who did the work writes it. Two other core members read it. Then it goes in the GC before it goes out, long enough that anyone named in it gets a chance to say how they want to be described.
 
 The announcement needs a few things. One sentence saying what shipped. One number, and where it came from, using the same figure as the press kit. The names of the people who did this particular work. A quote from whoever led it. A link to the thing. The credit line at the end.
 
