@@ -2,7 +2,7 @@
 
 Notes on how we deal with press. Written after the Iskolar ng Bayan feature in September 2026 because we didn't have any of this written down.
 
-When someone wants to write about us, whoever got contacted handles it. Post in the GC the same day so the rest of us know. Reply within a day. Say yes, say Room TBA is a team project, and send them uplb.tools/press. Send a group photo and a headshot and let them pick. Ask them to run the credit line from the press kit. Copy it, don't rewrite it. If they want an interview, send them to whoever built the thing they're writing about.
+When someone wants to write about us, whoever got contacted handles it. Post in the GC the same day so the rest of us know. Reply within a day. Say yes, say the project is a team effort, and send them uplb.tools/press. Send a group photo and a headshot and let them pick. Ask them to run the credit line from the press kit. Copy it, don't rewrite it. If they want an interview, send them to whoever built the thing they're writing about.
 
 The day you submit, post in the GC what you sent. Photos, credit line, quotes. Don't wait for the article to come out. When it's published, share it with everyone's names written out. If they got a name wrong or dropped the credit line, ask them to fix it that day and send the exact text you want.
 
@@ -14,7 +14,7 @@ The announcement needs a few things. One sentence saying what shipped. One numbe
 
 Post it to the org Facebook and Instagram, the GitHub release, Discord, and the changelog. Use the same text everywhere. Nobody posts as UPLB Tools until the GC has seen it. If something turns out to be wrong, fix it everywhere it was posted.
 
-If your org features you for your Room TBA work, that's your feature and none of this applies. Link the repo if you can.
+If your org features you for your uplb.tools work, that's your feature and none of this applies. Link the repo if you can.
 
 The rule for who's on uplb.tools/people is on that page. If a publication's credit doesn't match, we ask them to fix it. If the page is wrong, we fix the page.
 
