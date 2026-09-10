@@ -12,7 +12,7 @@ If it does, the person who did the work writes it. Two other core members read i
 
 The announcement needs a few things. One sentence saying what shipped. One number, and where it came from, using the same figure as the press kit. The names of the people who did this particular work. A quote from whoever led it. A link to the thing. The credit line at the end.
 
-Post it to the org Facebook and Instagram, the GitHub release, Discord, and the changelog. Use the same text everywhere. Nobody posts as UPLB Tools until the GC has seen it. If something turns out to be wrong, fix it everywhere it was posted.
+Post it to the org Facebook and Instagram, the GitHub release, Discord, and the changelog. Use the same text everywhere, and run it past the GC first since it goes out under the org name. If something turns out to be wrong, fix it everywhere it was posted.
 
 If your org features you for your uplb.tools work, that's your feature and none of this applies. Link the repo if you can.
 
