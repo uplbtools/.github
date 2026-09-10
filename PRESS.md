@@ -6,9 +6,9 @@ When someone wants to write about us, whoever got contacted handles it. Post in 
 
 The day you submit, post in the GC what you sent. Photos, credit line, quotes. Don't wait for the article to come out. When it's published, share it with everyone's names written out. If they got a name wrong or dropped the credit line, ask them to fix it that day and send the exact text you want.
 
-Sometimes we're the ones announcing something. We only do that for big things. A launch, a new campus running a fork, a partnership, or a milestone we can put a real number on. We don't do it for small releases.
+Sometimes we're the ones announcing something. Announce whatever you want. The rest of this only applies if the post names people or quotes numbers, because those are the two things that are hard to walk back.
 
-The person who did the work writes the announcement. Two other core members read it. Then it goes in the GC for at least a day so anyone named in it can say how they want to be described.
+If it does, the person who did the work writes it. Two other core members read it. Then it goes in the GC for at least a day so anyone named in it can say how they want to be described.
 
 The announcement needs a few things. One sentence saying what shipped. One number, and where it came from, using the same figure as the press kit. The names of the people who did this particular work. A quote from whoever led it. A link to the thing. The credit line at the end.
 
